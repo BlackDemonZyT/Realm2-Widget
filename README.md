@@ -1,2 +1,2 @@
-# Realm2-Widget
-Código del Widget con el logo de Realm2.
+# Spigot Capture
+This application will notify you when a selected resource got X downloads or got a purchase.
